@@ -5,7 +5,7 @@
 ## Overview
 In this assignment, we were asked to build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels. 
 
-The website was designed to be deployed via Github. Please click [here](add link).
+The website was designed to be deployed via Github. Please click [here](https://rjpaxtondata.github.io/Belly_Button-Challenge/).
 
 ## Resources
 * Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
